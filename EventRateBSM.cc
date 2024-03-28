@@ -82,7 +82,7 @@ int main(int argc, char * argv[])
 	double abs_a_tautau = 0;
 
 	double abs_c_ee = 0;
-	double abs_c_mue = 1.0 * 10e-24 * 10e9;//-2.0e-25 * 1.0e9;
+	double abs_c_mue = 1.0e-27 * 1.0e9;//-2.0e-25 * 1.0e9;
 	double arg_c_mue = 2 * M_PI;
 	double abs_c_etau = 0;
 	double arg_c_etau = 0;
